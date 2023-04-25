@@ -1,14 +1,57 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4d403b99-9965-4ee7-92f1-26ff4c5ddfe1" name="Changes" comment="" />
+    <list default="true" id="4d403b99-9965-4ee7-92f1-26ff4c5ddfe1" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Project3_Olexandr.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part1_1/Superclass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part1_2/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part1_3/Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part1_3/animals/Amphibian.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part1_3/animals/Animal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part1_3/animals/Bee.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part1_3/animals/Cat.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part1_3/animals/Cow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part1_3/animals/Cricket.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part1_3/animals/Dog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part1_3/animals/Frog.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part1_3/animals/Insect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part1_3/animals/Pig.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part1_3/soundmakers/SoundMaker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part2/OuterClass.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part3_1/UI_Boarder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part3_1/UI_Box.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part3_1/UI_BoxRigid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part3_1/UI_Button.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part3_1/UI_Flow.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part3_1/UI_Glue.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part3_1/UI_Grid.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part3_1/UI_Label.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part3_1/UI_TextField.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Part3_2/TextApp.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2OpSNLOMl8a1APptPsauxrH1mrx" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -16,13 +59,20 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "WebServerToolWindowFactoryState": "false"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/pambo/Downloads/Class6GUI&quot;
   }
-}]]></component>
+}</component>
+  <component name="RecentsManager">
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="Part1_3" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -31,8 +81,17 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1682255990288</updated>
+      <workItem from="1682255991529" duration="308000" />
+      <workItem from="1682258040411" duration="372000" />
+      <workItem from="1682269733473" duration="5475000" />
+      <workItem from="1682355814149" duration="448000" />
+      <workItem from="1682424797495" duration="1076000" />
+      <workItem from="1682429558375" duration="8000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">

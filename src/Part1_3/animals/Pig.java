@@ -1,4 +1,4 @@
-package animals;
+package Part1_3.animals;
 
 public class Pig extends Animal {
     @Override

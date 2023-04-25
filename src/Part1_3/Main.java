@@ -1,3 +1,5 @@
+package Part1_3;
+
 import Part1_3.animals.Cat;
 import Part1_3.animals.Bee;
 import Part1_3.animals.Cow;
